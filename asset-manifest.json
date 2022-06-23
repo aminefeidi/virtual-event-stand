@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/virtual-event-stand/static/css/main.dc8cfb67.css",
+    "main.js": "/virtual-event-stand/static/js/main.61d53355.js",
+    "static/js/787.3ddef2c2.chunk.js": "/virtual-event-stand/static/js/787.3ddef2c2.chunk.js",
+    "static/media/stand.jpg": "/virtual-event-stand/static/media/stand.fedb6030caff6c829891.jpg",
+    "index.html": "/virtual-event-stand/index.html",
+    "main.dc8cfb67.css.map": "/virtual-event-stand/static/css/main.dc8cfb67.css.map",
+    "main.61d53355.js.map": "/virtual-event-stand/static/js/main.61d53355.js.map",
+    "787.3ddef2c2.chunk.js.map": "/virtual-event-stand/static/js/787.3ddef2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc8cfb67.css",
+    "static/js/main.61d53355.js"
+  ]
+}
